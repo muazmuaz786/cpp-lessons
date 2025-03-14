@@ -23,7 +23,7 @@ int main(){
     std::getline(std::cin, name);
 
     //              /\      /\ where to store
-    //               which code
+    //               which one
 
 
     //but if we make any normal input next to getline function it will new line character will be there automaticlly
